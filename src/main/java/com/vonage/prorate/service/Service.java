@@ -10,7 +10,6 @@ package com.vonage.prorate.service;
 * @version 0.1
 */
 
-import java.util.Date;
 import java.util.List;
 
 public  class Service

@@ -1,3 +1,5 @@
+Note: This project is both a maven project as well as an eclipse project
+
 How to use:
 
 
@@ -19,19 +21,10 @@ e.g.: runit.bat 1999 2 4 21 120
 or
 mvn exec:java   -Dexec.args="$*"  -Dexec.mainClass=com.vonage.prorate.main.ProrationMain -Dexec.args=" 1999 2 4 21 120 "
 
+or run it from inside eclipse
+
 
 to test:
 mvn test
 
 
-
-
-
-
-
-
-
-mvn compile
-
-e.g.
-runit.bat 1999 1 14 21  100

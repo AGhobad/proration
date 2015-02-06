@@ -22,11 +22,6 @@ package com.vonage.prorate.engine;
 * @version 0.1
 */
 
-
-import java.util.Calendar;
-
-
-
 public   interface ProrationIF
 {    		       
 /**
